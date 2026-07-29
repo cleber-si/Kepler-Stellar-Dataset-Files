@@ -1,0 +1,22 @@
+Table 3 
+Power-law Fits to the Radius Gap
+
+
+Fit	M _sstarf	m	R _p,0	Dist.	
+R _p = R _p,0 ${\left(\tfrac{P}{10\,\mathrm{days}}\right)}^{m}$	0.5-1.4	$-{0.11}_{-0.02}^{+0.02}$	${1.84}_{-0.03}^{+0.03}$	D	
+	0.5-0.7	$-{0.12}_{-0.04}^{+0.06}$	${1.78}_{-0.06}^{+0.05}$	D	
+	0.7-1.0	$-{0.13}_{-0.06}^{+0.07}$	${1.74}_{-0.08}^{+0.09}$	D	
+	1.0-1.4	$-{0.06}_{-0.02}^{+0.02}$	${1.93}_{-0.04}^{+0.04}$	D	
+	0.5-0.7	$-{0.06}_{-0.05}^{+0.04}$	${1.71}_{-0.04}^{+0.05}$	O	
+	0.7-1.0	$-{0.10}_{-0.05}^{+0.07}$	${1.70}_{-0.10}^{+0.09}$	O	
+	1.0-1.4	$-{0.05}_{-0.03}^{+0.03}$	${1.92}_{-0.05}^{+0.06}$	O	
+R _p = R _p,0 ${\left(\tfrac{{S}_{\mathrm{inc}}}{100\,{S}_{\oplus }}\right)}^{m}$	0.5-1.4	${0.06}_{-0.01}^{+0.01}$	${1.86}_{-0.03}^{+0.04}$	D	
+	0.5-0.7	${0.07}_{-0.04}^{+0.02}$	${2.00}_{-0.19}^{+0.11}$	D	
+	0.7-1.0	${0.10}_{-0.04}^{+0.04}$	${1.86}_{-0.07}^{+0.07}$	D	
+	1.0-1.4	${0.05}_{-0.01}^{+0.01}$	${1.85}_{-0.04}^{+0.04}$	D	
+	0.5-0.7	${0.06}_{-0.03}^{+0.02}$	${1.93}_{-0.13}^{+0.11}$	O	
+	0.7-1.0	${0.08}_{-0.04}^{+0.04}$	${1.81}_{-0.06}^{+0.08}$	O	
+	1.0-1.4	${0.05}_{-0.01}^{+0.01}$	${1.84}_{-0.04}^{+0.04}$	O	
+R _p = R _p,0 ${\left(\tfrac{{M}_{\star }}{1\,{M}_{\odot }}\right)}^{m}$	0.5-1.4	${0.18}_{-0.07}^{+0.08}$	${1.86}_{-0.03}^{+0.03}$	D	
+R _p = m [Fe/H] + R _p,0	0.5-1.4	${0.01}_{-0.06}^{+0.05}$	${1.82}_{-0.03}^{+0.05}$	D	
+Note. We fit the radius gap in the detected planet population in Section 6.1 as a function of orbital period, incident stellar flux, stellar mass, and stellar metallicity (see Figure 7). We repeated the orbital period and incident flux fits for narrower ranges of stellar mass (see Figures 8 and 9). We fit the radius gap in the debiased planet occurrence distribution in Section 7.1 (see Figures 8 and 9). We elaborate on the following columns: "Fit" is the functional form of the fit, "M _sstarf" is the range of stellar masses, and "Dist." indicates whether the fit was of the distribution of planet detections "D" or occurrence "O."

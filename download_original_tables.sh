@@ -11,4 +11,30 @@ wget -O stellar_supp_data.txt "https://exoplanetarchive.ipac.caltech.edu/cgi-bin
 # Average Detection Efficiency table
 wget -O avg_detection_eff_INJ1.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inj1_plti.txt"
 # Robovetter Results table
-wget -O robovetter_results.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inj1_tces.txt"
+# INJ1
+wget -O robovetter_results_INJ1.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inj1_tces.txt"
+# INV
+wget -O robovetter_results_INV.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inv_tces.txt"
+# SCR1
+wget -O robovetter_results_SCR1.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr1_tces.txt"
+# SCR2
+wget -O robovetter_results_SCR1.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr2_tces.txt"
+# SCR3
+wget -O robovetter_results_SCR1.txt "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr3_tces.txt"
+
+
+# Berger et al. 2020
+# Reference pages:	https://doi.org/10.3847/1538-3881/aba18a  |  https://arxiv.org/abs/2005.14671
+wget -O berger_2020.txt "https://content.cld.iop.org/journals/1538-3881/160/3/108/revision1/ajaba18at1_mrt.txt"
+
+
+# Petigura et al. 2022
+# Reference pages:	https://doi.org/10.3847/1538-3881/ac51e3  |  https://arxiv.org/abs/2201.10020
+# Table 1
+wget -O petigura_2020_t1.txt "https://content.cld.iop.org/journals/1538-3881/163/4/179/revision1/ajac51e3t1_mrt.txt"
+# Table 2
+wget -O petigura_2020_t2.txt "https://content.cld.iop.org/journals/1538-3881/163/4/179/revision1/ajac51e3t2_mrt.txt"
+# Table 2
+wget -O petigura_2020_t3.txt "https://iopscience.iop.org/1538-3881/163/4/179/suppdata/ajac51e3t3_ascii.txt?doi=10.3847/1538-3881/ac51e3"
+# Table 2
+wget -O petigura_2020_t4.txt "https://iopscience.iop.org/1538-3881/163/4/179/suppdata/ajac51e3t4_ascii.txt?doi=10.3847/1538-3881/ac51e3"
