@@ -1,0 +1,167 @@
+{
+  "repository": "https://github.com/cleber-si/Kepler-Tables",
+  "generated": "2026-07-30 (regenerated at corrected head)",
+  "notes": [
+    "berger_2020a_t1/t2 overwrite corrected: t1 = Input Parameters, t2 = Output Parameters (the analysis catalog)",
+    "False-alarm files INV/SCR1/SCR2 carry \\nrows headers exceeding actual data rows by 5/4/5 (SCR3: 0); last lines are complete, so this is an archive-side header quirk, not truncation; parsed counts are authoritative"
+  ],
+  "files": {
+    "avg_detection_eff_INJ1.txt": {
+      "sha256": "6b9f2d8b597902aa4037b4a05d4dfd255f281f8f25f6b970e5a88fc8f0652979",
+      "bytes": 47257124,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inj1_plti.txt",
+      "nrows_header": 146294,
+      "runtype": "INJ1"
+    },
+    "berger_2020a_t1.txt": {
+      "sha256": "d511bfdb22e198664b3882e6e2e0e89278722be66ed9f6ded3ccee100d26ded2",
+      "bytes": 18098065,
+      "source_url": "https://content.cld.iop.org/journals/1538-3881/159/6/280/revision1/ajab8a33t1_mrt.txt"
+    },
+    "berger_2020a_t2.txt": {
+      "sha256": "894f3fe9e945033fdafffc7536a9e5cab3fac105170971f3e570838862354fb1",
+      "bytes": 41734228,
+      "source_url": "https://content.cld.iop.org/journals/1538-3881/159/6/280/revision1/ajab8a33t2_mrt.txt"
+    },
+    "berger_2020b_t1.txt": {
+      "sha256": "075a90e4e53947eb25af895931ad138fb89b5408e8fc672d129526fd09681c62",
+      "bytes": 501099,
+      "source_url": "https://content.cld.iop.org/journals/1538-3881/160/3/108/revision1/ajaba18at1_mrt.txt"
+    },
+    "petigura_2022_t1.txt": {
+      "sha256": "9c72b484691fb45b76d984ca5d955514f18f5e8b346a1e60f3dbfbdbe29ef78e",
+      "bytes": 316600,
+      "source_url": "https://content.cld.iop.org/journals/1538-3881/163/4/179/revision1/ajac51e3t1_mrt.txt"
+    },
+    "petigura_2022_t2.txt": {
+      "sha256": "c72d68c968131eb6e1126a34ed2c7c472405b3219b17c0a8ba25e056779ebcfc",
+      "bytes": 250498,
+      "source_url": "https://content.cld.iop.org/journals/1538-3881/163/4/179/revision1/ajac51e3t2_mrt.txt"
+    },
+    "petigura_2022_t3.txt": {
+      "sha256": "d32aa361f56aa7c9fadb4365bac9f7c4341906d14e419a11aabc3394daec4f1e",
+      "bytes": 1950,
+      "source_url": "https://iopscience.iop.org/1538-3881/163/4/179/suppdata/ajac51e3t3_ascii.txt?doi=10.3847/1538-3881/ac51e3"
+    },
+    "petigura_2022_t4.txt": {
+      "sha256": "5914fc2871f5c2d0dcad153a21d284227c4727a214b7e5b8b82eac38929e4e1a",
+      "bytes": 1759,
+      "source_url": "https://iopscience.iop.org/1538-3881/163/4/179/suppdata/ajac51e3t4_ascii.txt?doi=10.3847/1538-3881/ac51e3"
+    },
+    "q1_q17_dr25_koi_2026.07.29_14.17.12.csv": {
+      "sha256": "8c6d4dbc9dab54ee63b060a1ba9b3e331f2b0463e6af93ff0f3cc7b22f1f9608",
+      "bytes": 10076537
+    },
+    "q1_q17_dr25_sup_koi_2026.07.29_14.17.51.csv": {
+      "sha256": "cad69701dd35396f2e8b4b22a4eb2983fa04b9e7db29c3c888d88d1303130bc0",
+      "bytes": 4659818
+    },
+    "robovetter_results_INJ1.txt": {
+      "sha256": "e0d6d05b36a4180c7bc1b69d6d1a1feab95b02f26ed66d6fe89b8aa631e63e3f",
+      "bytes": 10077066,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inj1_tces.txt",
+      "nrows_header": 45377,
+      "runtype": "INJ1"
+    },
+    "robovetter_results_INV.txt": {
+      "sha256": "2d13caa8cda93cb331285efc9933227adae50ce48b822965af390f4b6e021b2d",
+      "bytes": 4417393,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_inv_tces.txt",
+      "nrows_header": 19536,
+      "runtype": "INV"
+    },
+    "robovetter_results_SCR1.txt": {
+      "sha256": "83315efb8d2c33ac5057ac67422db1035313fb684a408aab6f11b34defdac230",
+      "bytes": 5450409,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr1_tces.txt",
+      "nrows_header": 24213,
+      "runtype": "SCR1"
+    },
+    "robovetter_results_SCR2.txt": {
+      "sha256": "014f5e062cb5fd2a015c49208859eb8cf564dce3a75703d4e85a5b63337be986",
+      "bytes": 5476430,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr2_tces.txt",
+      "nrows_header": 24222,
+      "runtype": "SCR2"
+    },
+    "robovetter_results_SCR3.txt": {
+      "sha256": "1e419f261a859bd0967ab6e74932ca47330207de1563fe522e1aa84c753cc4fb",
+      "bytes": 4460859,
+      "source_url": "https://exoplanetarchive.ipac.caltech.edu/data/KeplerData/Simulated/kplr_dr25_scr3_tces.txt",
+      "nrows_header": 19811,
+      "runtype": "SCR3"
+    },
+    "stellar_data_columns.txt": {
+      "sha256": "f1e0a538ac8fc489f61b84bc030bac520572de5abba5351a27a01bdf8ad65209",
+      "bytes": 13095
+    },
+    "stellar_data_part_1.txt": {
+      "sha256": "6bf235868576f653e0c05658a6c4b8f6a46e46b615aed2878c726102e12dec7d",
+      "bytes": 36913284
+    },
+    "stellar_data_part_2.txt": {
+      "sha256": "66b9992883c98664ead53c438cf0b8651cbec8fa938e2f0854e630b0a06f8b7a",
+      "bytes": 36913284
+    },
+    "stellar_data_part_3.txt": {
+      "sha256": "87bb3bcfde310125ab14337f4c4e8fe0a84967ec05f370757ee098a09180cc62",
+      "bytes": 36913284
+    },
+    "stellar_data_part_4.txt": {
+      "sha256": "a476c23001da08ffe7e89a0e7ec57ace1e832c925e9805274836d7ea43e60d25",
+      "bytes": 36913284
+    },
+    "stellar_data_part_5.txt": {
+      "sha256": "54e3bd543a106e6003d85daaa65d09a1c05c10b2d3a8f33d6579bf46c8744d48",
+      "bytes": 36913284
+    },
+    "stellar_data_part_6.txt": {
+      "sha256": "0dd84b9d09e75d011f208287a186fb8241767a8443e3180e1f8addcf6e8c156b",
+      "bytes": 36913284
+    },
+    "stellar_data_part_7.txt": {
+      "sha256": "a5f7380068f546f1c53ea3d610343b6494d86703a79f94864d6ca03c923173f2",
+      "bytes": 36911808
+    },
+    "stellar_data_part_8.txt": {
+      "sha256": "af4db3f4f57f91b8de8079c4c588a378fb946ffc9ada9ae9f1789a92969b762f",
+      "bytes": 36911808
+    },
+    "stellar_supp_data_columns.txt": {
+      "sha256": "078bc2ad9446ccae1edb6a06af89d20a4804a4a075adb0e506feeaaec6f6f18f",
+      "bytes": 13095
+    },
+    "stellar_supp_data_part_1.txt": {
+      "sha256": "c0a28f85977261b6463e3982fedd94e317fe0b955b3156a2698a86fc232b8107",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_2.txt": {
+      "sha256": "da1fbf4f7c40ffddd51dd7b8e67f10fdd306b81c331b2876903b0f7671b39a9f",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_3.txt": {
+      "sha256": "5ba9b2b1d5bb32a7c11225ee41bca0da4ab9c120cef173875429524de4e1efe6",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_4.txt": {
+      "sha256": "59bb0e64da56a2eed80e8a24a6c1af12153416f57e37d14b7c89f3f471e0d10c",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_5.txt": {
+      "sha256": "30073f3d2081706dc9dd47dae67d70e67eb86dba2bd7858bf93a498e3dee005c",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_6.txt": {
+      "sha256": "b2ca0007f85c8939175c714acfc993c9afe3e7200c1d5bae2c33d4af23db529d",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_7.txt": {
+      "sha256": "4a0471d26c88274ee00d15bd60e2146fdb8bd770c786d5d10d3d541302ee875e",
+      "bytes": 36370116
+    },
+    "stellar_supp_data_part_8.txt": {
+      "sha256": "168708adc099c40545b3518bd66cc1046261217b436b5f34e4f60de8c30495a0",
+      "bytes": 36370116
+    }
+  }
+}
