@@ -28,7 +28,7 @@ wget -O robovetter_results_SCR3.txt "https://exoplanetarchive.ipac.caltech.edu/d
 # Table 1
 wget -O berger_2020a_t1.txt "https://content.cld.iop.org/journals/1538-3881/159/6/280/revision1/ajab8a33t1_mrt.txt"
 # Table 2
-wget -O berger_2020a_t1.txt "https://content.cld.iop.org/journals/1538-3881/159/6/280/revision1/ajab8a33t2_mrt.txt"
+wget -O berger_2020a_t2.txt "https://content.cld.iop.org/journals/1538-3881/159/6/280/revision1/ajab8a33t2_mrt.txt"
 
 
 # Berger et al. 2020b
