@@ -47,7 +47,14 @@ wget -O petigura_2022_t3.txt "https://iopscience.iop.org/1538-3881/163/4/179/sup
 # Table 4
 wget -O petigura_2022_t4.txt "https://iopscience.iop.org/1538-3881/163/4/179/suppdata/ajac51e3t4_ascii.txt?doi=10.3847/1538-3881/ac51e3"
 
-# Berger at al. B23 Gaia DR3 tables
+
+# Berger at al. 2023 B23 Gaia DR3 tables
 wget -O b23_table2_stellar.csv "https://arxiv.org/src/2301.11338v1/anc/GKTHCatalog_Table2.csv"
 wget -O b23_table4.csv "https://arxiv.org/src/2301.11338v1/anc/GKTHCatalog_Table4.csv"
 wget -O b23_table5.csv "https://arxiv.org/src/2301.11338v1/anc/GKTHCatalog_Table5.csv"
+
+
+# Berger et al. 2026 Tables
+wget -O berger_2026_t1.txt "https://content.cld.iop.org/journals/1538-3881/171/1/23/revision1/ajae0e76t1_mrt.txt"
+wget -O berger_2026_t3.txt "https://content.cld.iop.org/journals/1538-3881/171/1/23/revision1/ajae0e76t3_mrt.txt"
+wget -O berger_2026_t5.txt "https://content.cld.iop.org/journals/1538-3881/171/1/23/revision1/ajae0e76t5_mrt.txt"
